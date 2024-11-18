@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @SemonEvil or Simão Oliveira
 - 👀 I’m interested in learn programming
 - 🌱 I’m currently learning C# & C
-- 💞️ I’m looking to collaborate on different types of projects
